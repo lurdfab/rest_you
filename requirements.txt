@@ -1,0 +1,10 @@
+django
+pillow
+djangorestframework
+django-filter
+psycopg2
+djmail
+django-jinja
+python-decouple
+coverage
+pyjwt

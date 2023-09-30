@@ -1,0 +1,7 @@
+[run]
+#these are the files that will be included in the coverage report
+source = authentication/, todolist/,
+
+#these are the files that will be excluded from the coverage report
+omit = env/*, */migrations/*, */tests/*, */__init__.py, 
+      
